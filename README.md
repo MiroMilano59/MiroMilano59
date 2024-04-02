@@ -4,7 +4,7 @@
 En reconversion professionnelle progressive depuis plus d’un an et suite à différentes formations en ligne, je me suis pris d’intérêt pour le métier de data engineer. 
 Après une première formationen DATA à Simplon et des projets pratiques de gestion de bases de données, je vais poursuivre mes études à Simplon dans une formation de data engineer pour une durée de 5mois, celle-ci débouche sur une alternance de 18 mois pour laquelle je recherche une entreprise d’accueil à partir de septembre 2024.
 
-# Projets récents
+# Projets Olist
 
 Pour cet exercice, j'ai créé un tableau de bord interactif utilisant Streamlit pour visualiser les données du projet OLIST. L'application offre une perspective géographique des acheteurs et vendeurs, des analyses de critiques et bien plus encore.
 <p align="center">
