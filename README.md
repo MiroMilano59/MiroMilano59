@@ -22,7 +22,7 @@ J'ai réalisé une étude approfondie des données du projet Titanic, explorant 
 
 # Projet écosystème Autonome WA TOR
 
-Dans ce projet fascinant, j'ai développé un écosystème virtuel autonome sur Pygame, avec des poissons se reproduisant tous les x temps et des requins se nourrissant des poissons, suivant un cycle de vie prédéfini. Une simulation immersive mettant en avant mes compétences en modélisation et en simulation.
+Dans ce projet fascinant, j'ai développé un écosystème virtuel autonome sur Pygame, avec des poissons se reproduisant tous les x temps et des requins se nourrissant des poissons, suivant un cycle de vie prédéfini. 
 ![WATOR](https://github.com/MiroMilano59/MiroMilano59/assets/153615242/3cd69e86-d32f-42c7-9061-c3e7f7d7d879)
 
 # Contact
