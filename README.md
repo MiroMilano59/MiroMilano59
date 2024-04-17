@@ -26,5 +26,5 @@ Dans ce projet fascinant, j'ai développé un écosystème virtuel autonome sur 
 ![WATOR](https://github.com/MiroMilano59/MiroMilano59/assets/153615242/3cd69e86-d32f-42c7-9061-c3e7f7d7d879)
 
 # Contact
-Si vous êtes intéressé par mes projets ou si vous souhaitez discuter de possibilités d'alternance, n'hésitez pas à me contacter. Je suis prêt à relever de nouveaux défis passionnants !
+Si vous êtes intéressé par mes projets ou si vous souhaitez discuter de possibilités d'alternance, n'hésitez pas à me contacter. Je suis prêt à relever de nouveaux défis !
 @ => miromilano59@gmail.com 
