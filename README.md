@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 ## À propos de moi
-En reconversion professionnelle progressive depuis plus d’un an et suite à différentes formations en ligne, je me suis pris d’intérêt pour le métier de data engineer. 
-Après une première formationen DATA à Simplon et des projets pratiques de gestion de bases de données, je vais poursuivre mes études à Simplon dans une formation de data engineer pour une durée de 5mois, celle-ci débouche sur une alternance de 18 mois pour laquelle je recherche une entreprise d’accueil à partir de septembre 2024.  
+Dans la continuité de mon projet professionnel en gestion de projet, je me suis pris d’intérêt pour les métiers de la data. 
+J’ai décidé de m’orienter vers le métier de data engineer qui correspond plus à mon parcours scolaire et professionnel. 
+Afin de renforcer mes compétences techniques, j'ai poursuivi ma formation chez Simplon et je souhaite compléter ce cursus en intégrant la formation Data Engineer de OpenClassroom.
 
 # Projets Olist
 
